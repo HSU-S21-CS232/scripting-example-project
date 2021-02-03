@@ -2,6 +2,5 @@
 
 ## Example section for library requirements
 ```
-pip install bs4
-pip install selenium
+pip install bs4 selenium
 ```
